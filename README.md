@@ -4,8 +4,11 @@ This is a simple implementation of the classic two-player Tic-Tac-Toe game in Ja
 
 # Features
 => Two players can play against each other.
+
 => The game board is displayed after each move.
+
 => It checks for winning conditions (three in a row) or a draw.
+
 => Option to play multiple rounds.
 
 # Usage
